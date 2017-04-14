@@ -24,11 +24,8 @@
 
     <div class="row">
 
-        <!-- include left menu -->
-        <?php include "../includes/left_menu.inc.php"; ?>
-
         <!-- main content -->
-        <div class="col-lg-6 col-md-6 col-sm-12">
+        <div class="col-lg-9 col-md-9 col-sm-12">
             <div class="container-fluid">
                 <div class="row">
                     <h3>One</h3>
@@ -50,5 +47,6 @@
 <script type="text/javascript" src="../frameworks/circliful/js/jquery.circliful.min.js"></script>
 <script type="text/javascript" src="../frameworks/moment/moment-with-locales.min.js"></script>
 <script type="text/javascript" src="../frameworks/Chart/src/chart.js"></script>
+<script type="text/javascript" src="../js/custom.js"></script>
 </body>
 </html>
