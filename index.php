@@ -107,17 +107,18 @@ if(isset($_SESSION['username'])){
                         <li class="active" data-slide-to="0" data-target="#myCarousel"></li>
                         <li class="active" data-slide-to="1" data-target="#myCarousel"></li>
                         <li class="active" data-slide-to="2" data-target="#myCarousel"></li>
+                        <li class="active" data-slide-to="3" data-target="#myCarousel"></li>
                     </ol>
                     <!-- wrapper for slides -->
                     <div class="carousel-inner" role="listbox">
                         <div class="carousel-item active">
-                            <img src="img/bgimage.jpg" height="350px" width="100%" alt="Image">
+                            <img src="img/soccer/arsenal.jpg" height="350px" width="100%" alt="Image">
                             <div class="carousel-caption">
                                <h4>Tomorrow's Games </h4>
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <img src="img/ubisales.jpg" height="350px" width="100%" alt="Image">
+                            <img src="img/soccer/gettyimages-edenhazard.jpg" height="350px" width="100%" alt="Image">
                             <div class="carousel-caption" id="news">
                                 <div class="panel pull-left side">
                                     <div class="panel-heading">
@@ -135,7 +136,15 @@ if(isset($_SESSION['username'])){
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <img src="img/example.jpg" height="350px" width="100%" alt="Image">
+                            <img src="img/soccer/LionelMessiBarcelona.jpg" height="350px" width="100%" alt="Image">
+                            <div class="carousel-caption">
+                                <h4>TODAY'S GAMES</h4>
+                                <p>We develop responsive websites, that can adapt to any device size.</p>
+                                <!--<button class="btn btn-large btn-success">Call Me</button>-->
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="img/soccer/Manchester-United.jpg" height="350px" width="100%" alt="Image">
                             <div class="carousel-caption">
                                 <h4>TODAY'S GAMES</h4>
                                 <p>We develop responsive websites, that can adapt to any device size.</p>

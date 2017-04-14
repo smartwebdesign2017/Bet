@@ -5,7 +5,7 @@
             <span class="icon-baar"></span>
             <span class="icon-baar"></span>
         </button> -->
-        <a href="" class="navbar-brand"><img src="img/Watilah%20Logo.png" width="40px" height="40px" alt="BET"></a>
+        <a href="" class="navbar-brand">BETTING TIPS<!--<img src="img/Watilah%20Logo.png" width="40px" height="40px" alt="BET">--></a>
         <div class="navbar-collapse collapse nav-responsive-collapse">
             <!--<ul class="nav navbar-nav">
                 <li><a href="#">HOME</a></li>
